@@ -1,7 +1,7 @@
 # 👋 你好，我是尧！
 
 <div align="center">
-    <a href="https://github.com/mordom0404/README-en.md">English version</a>
+    <a href="https://github.com/mordom0404/mordom0404/blob/main/README-en.md">English version</a>
 </div>
 
 ---
