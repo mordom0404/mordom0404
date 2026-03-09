@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yao!
 
 <div align="center">
-  <a href="https://github.com/mordom0404/README.md">中文</a>
+  <a href="[https://github.com/mordom0404/README.md](https://github.com/mordom0404/mordom0404/blob/main/README.md)">中文</a>
 </div>
 
 ---
