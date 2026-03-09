@@ -1,7 +1,7 @@
 # 👋 你好，我是尧！
 
 <div align="center">
-  <img src="https://github.com/mordom0404/profile.jpg" alt="个人头像" width="200" />
+    <a href="https://github.com/mordom0404/README-en.md">English version</a>
 </div>
 
 ---
@@ -24,7 +24,7 @@
 | **风光Pixel桌面壁纸** | Mac/Windows商店 | 使用深度估计技术实现动态壁纸 |
 
 ### 📬 联系我
-- **邮箱**: 838419775@qq.com
+- **邮箱**: mordom@foxmail.com
 - **个人网站**: [https://photohelper.cn](https://photohelper.cn)
 - **技术博客**: [https://www.jianshu.com/u/3391b205251d](https://www.jianshu.com/u/3391b205251d)
 - **GitHub**: [@mordom0404](https://github.com/mordom0404)
@@ -59,20 +59,13 @@
 
 ---
 
-## 📊 GitHub数据
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mordom0404&show_icons=true&theme=dark" alt="GitHub统计" />
-</div>
-
----
 
 ## 💬 欢迎交流！
 
 我很乐意讨论新项目、创意想法或合作机会。随时联系我！
 
 <div align="center">
-  <a href="mailto:838419775@qq.com">📧 发送邮件</a> • 
+  <a href="mailto:mordom@foxmail.com">📧 发送邮件</a> • 
   <a href="https://github.com/mordom0404">🔗 GitHub主页</a> • 
   <a href="https://photohelper.cn">🌐 个人网站</a>
 </div>
