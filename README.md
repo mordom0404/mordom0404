@@ -24,7 +24,6 @@
 | **风光Pixel桌面壁纸** | Mac/Windows商店 | 使用深度估计技术实现动态壁纸 |
 
 ### 📬 联系我
-- **邮箱**: mordom@foxmail.com
 - **个人网站**: [https://photohelper.cn](https://photohelper.cn)
 - **技术博客**: [https://www.jianshu.com/u/3391b205251d](https://www.jianshu.com/u/3391b205251d)
 - **GitHub**: [@mordom0404](https://github.com/mordom0404)
